@@ -14,6 +14,6 @@ git clone https://github.com/airton/frontend-nanodegree-arcade-game.git
 yarn && yarn start // or npm install && npm start
 
 # Open local
-[http://localhost:8080/](http://localhost:8080/)
+http://localhost:8080/
 ```
 
