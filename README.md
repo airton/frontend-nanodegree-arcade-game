@@ -6,7 +6,7 @@
 
 ## Instructions
 
-```
+```js
 # Clone the repo
 git clone https://github.com/airton/frontend-nanodegree-arcade-game.git
 
